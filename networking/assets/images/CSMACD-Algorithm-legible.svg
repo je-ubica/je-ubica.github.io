@@ -1,0 +1,1935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1333.3334"
+   height="672"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="CSMACD-Algorithm-legible.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/Users/rob_art/WORK/Uni Koblenz/Part I/Block I/ethernet collision/ethernet-boxen.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5394">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5396" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5398" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5388">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5390" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5392" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5380">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop5382" />
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0.52015781"
+         id="stop5384" />
+      <stop
+         style="stop-color:#c3c3c3;stop-opacity:1"
+         offset="1"
+         id="stop5386" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4243">
+      <stop
+         style="stop-color:#ffae00;stop-opacity:1;"
+         offset="0"
+         id="stop4245" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4247" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4227">
+      <stop
+         style="stop-color:#ffae00;stop-opacity:1;"
+         offset="0"
+         id="stop4229" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4231" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5053">
+      <stop
+         style="stop-color:#0c3875;stop-opacity:1;"
+         offset="0"
+         id="stop5055" />
+      <stop
+         style="stop-color:#0c3875;stop-opacity:0;"
+         offset="1"
+         id="stop5057" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5045">
+      <stop
+         style="stop-color:#0c3875;stop-opacity:1;"
+         offset="0"
+         id="stop5047" />
+      <stop
+         style="stop-color:#0c3875;stop-opacity:0;"
+         offset="1"
+         id="stop5049" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="EmptyTriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleInM"
+       style="overflow:visible">
+      <path
+         id="path4310"
+         d="M -0.54186667,0 3.1488,-2.1333333 v 4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleInL"
+       style="overflow:visible">
+      <path
+         id="path4307"
+         d="M 0.19626667,0 7.5776,-4.2666667 v 8.5333334 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.853333pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible">
+      <path
+         id="path4289"
+         d="M -4.9237333,0 2.4576,-4.2666667 v 8.5333334 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.853333pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4176"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.733333;stroke-linejoin:round"
+         d="M -11.403143,-4.732916 1.416553,-0.01878889 -11.403144,4.6953372 c 2.0480517,-2.7832182 2.0362508,-6.5911436 10e-7,-9.4282532 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4158"
+         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.853333pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect7191"
+       is_visible="true"
+       pattern="m 0,5 10,5 V 0 Z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7082">
+      <stop
+         style="stop-color:#ffb517;stop-opacity:1;"
+         offset="0"
+         id="stop7084" />
+      <stop
+         style="stop-color:#ffb517;stop-opacity:0;"
+         offset="1"
+         id="stop7086" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4978">
+      <stop
+         style="stop-color:#0c3875;stop-opacity:1;"
+         offset="0"
+         id="stop4980" />
+      <stop
+         style="stop-color:#0c3875;stop-opacity:0;"
+         offset="1"
+         id="stop4982" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4155"
+         d="M 10.666667,0 14.933333,-4.2666667 0,0 14.933333,4.2666667 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.853333pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4144">
+      <stop
+         style="stop-color:#0c3875;stop-opacity:1;"
+         offset="0"
+         id="stop4146" />
+      <stop
+         style="stop-color:#0c3875;stop-opacity:0;"
+         offset="1"
+         id="stop4148" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4025"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4027" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4029" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path3362"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutMbr"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutMbr"
+       style="overflow:visible">
+      <path
+         id="path3363"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#d45500;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path3213"
+         d="M -1.28,0 -2.3466667,1.0666667 1.3866667,0 -2.3466667,-1.0666667 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.213333pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 606.05983 : 1"
+       inkscape:vp_y="0 : 1066.6667 : 0"
+       inkscape:vp_z="793.70078 : 606.05983 : 1"
+       inkscape:persp3d-origin="396.85039 : 418.97322 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4144"
+       id="linearGradient4150"
+       x1="115.5"
+       y1="57.620186"
+       x2="124.5"
+       y2="57.620186"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4978"
+       id="linearGradient4984"
+       x1="115.5"
+       y1="57.620186"
+       x2="124.5"
+       y2="57.620186"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7082"
+       id="linearGradient7088"
+       x1="134.80457"
+       y1="193.94724"
+       x2="125.0053"
+       y2="181.73479"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7082"
+       id="linearGradient7116"
+       gradientUnits="userSpaceOnUse"
+       x1="124.47562"
+       y1="198.05206"
+       x2="124.47562"
+       y2="168.05206" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7082"
+       id="linearGradient7124"
+       gradientUnits="userSpaceOnUse"
+       x1="124.47562"
+       y1="198.05206"
+       x2="124.47562"
+       y2="168.05206" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7082-4">
+      <stop
+         style="stop-color:#ffb517;stop-opacity:1;"
+         offset="0"
+         id="stop7084-2" />
+      <stop
+         style="stop-color:#ffb517;stop-opacity:0;"
+         offset="1"
+         id="stop7086-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7082-4"
+       id="linearGradient9545-6"
+       gradientUnits="userSpaceOnUse"
+       x1="124.47562"
+       y1="198.05206"
+       x2="124.47562"
+       y2="168.05206" />
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM-9"
+       style="overflow:visible">
+      <path
+         id="path3362-2"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM-6"
+       style="overflow:visible">
+      <path
+         id="path3362-5"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4017-1"
+       id="linearGradient9573-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.1155125,0,0,1.7452178,32.471908,222.86707)"
+       x1="225"
+       y1="-4.8800049"
+       x2="225"
+       y2="-24.880005" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4017-1">
+      <stop
+         style="stop-color:#ffae00;stop-opacity:1;"
+         offset="0"
+         id="stop4019-6" />
+      <stop
+         style="stop-color:#ffae00;stop-opacity:0;"
+         offset="1"
+         id="stop4021-2" />
+    </linearGradient>
+    <linearGradient
+       y2="-24.880005"
+       x2="225"
+       y1="-4.8800049"
+       x1="225"
+       gradientTransform="matrix(3.1155125,0,0,1.7452178,33.871071,143.75112)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4417-0"
+       xlink:href="#linearGradient4017-1-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4017-1-3">
+      <stop
+         style="stop-color:#ffae00;stop-opacity:1;"
+         offset="0"
+         id="stop4019-6-6" />
+      <stop
+         style="stop-color:#ffae00;stop-opacity:0;"
+         offset="1"
+         id="stop4021-2-8" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM-4"
+       style="overflow:visible">
+      <path
+         id="path3362-58"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7082-1"
+       id="linearGradient9547-1"
+       gradientUnits="userSpaceOnUse"
+       x1="134.80457"
+       y1="193.94724"
+       x2="125.0053"
+       y2="181.73479" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7082-1">
+      <stop
+         style="stop-color:#ffb517;stop-opacity:1;"
+         offset="0"
+         id="stop7084-8" />
+      <stop
+         style="stop-color:#ffb517;stop-opacity:0;"
+         offset="1"
+         id="stop7086-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7082-1"
+       id="linearGradient9545-62"
+       gradientUnits="userSpaceOnUse"
+       x1="124.47562"
+       y1="198.05206"
+       x2="124.47562"
+       y2="168.05206" />
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM-2"
+       style="overflow:visible">
+      <path
+         id="path3362-3"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM-0"
+       style="overflow:visible">
+      <path
+         id="path3362-9"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM-7"
+       style="overflow:visible">
+      <path
+         id="path3362-1"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4017-5"
+       id="linearGradient5048-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.1155125,0,0,1.08,-468.98602,16.84173)"
+       x1="225"
+       y1="-4.8800049"
+       x2="225"
+       y2="-24.880005" />
+    <linearGradient
+       id="linearGradient4017-5">
+      <stop
+         style="stop-color:#ffae00;stop-opacity:0.96069872;"
+         offset="0"
+         id="stop4019-4" />
+      <stop
+         style="stop-color:#ffae00;stop-opacity:0;"
+         offset="1"
+         id="stop4021-6" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutM-3"
+       style="overflow:visible">
+      <path
+         id="path3362-0"
+         d="M 0.54186667,0 -3.1488,2.1333333 v -4.2666666 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.426667pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,1.536967,-949.9594,208.1372)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5461"
+       id="linearGradient8239"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,1.536967,-526.0115,177.0846)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5461"
+       id="linearGradient5538"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,2.370301,-949.9594,-674.6194)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4149"
+       id="linearGradient5507"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,2.370301,-949.9594,-884.6194)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5461"
+       id="linearGradient5487"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,0.94173,-949.9594,88.75473)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4113"
+       id="linearGradient5447"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,1.536967,-526.0115,177.0846)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5461"
+       id="linearGradient5436"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,2.370301,-949.9594,-339.6989)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4823"
+       id="linearGradient5350"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.114388,0,0,6.436146,-999.098,-2480.337)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5530"
+       id="linearGradient5290"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.114388,0,0,2.721859,-999.098,-490.136)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5530"
+       id="linearGradient5233"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.183339,0,0,11.25126,-1050.21,-4357.806)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5530"
+       id="linearGradient3848"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       id="linearGradient3768">
+      <stop
+         id="stop3770"
+         offset="0"
+         style="stop-color:black;stop-opacity:1" />
+      <stop
+         id="stop3772"
+         offset="1"
+         style="stop-color:black;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3776">
+      <stop
+         id="stop3778"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop3784"
+         offset="0.5"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop3780"
+         offset="1"
+         style="stop-color:#c3c3c3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3874">
+      <stop
+         id="stop3876"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5459"
+         offset="0"
+         style="stop-color:#e1ddff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4113">
+      <stop
+         id="stop4115"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4117"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4119"
+         offset="1"
+         style="stop-color:#ffbcbc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4141">
+      <stop
+         id="stop4143"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4145"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4147"
+         offset="1"
+         style="stop-color:#f3f3f3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4149">
+      <stop
+         id="stop4151"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4153"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4155"
+         offset="1"
+         style="stop-color:#ceffbc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4823">
+      <stop
+         id="stop4825"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4827"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4829"
+         offset="1"
+         style="stop-color:#fcffbc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5449">
+      <stop
+         id="stop5451"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5453"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5455"
+         offset="1"
+         style="stop-color:#ffdebc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5461">
+      <stop
+         id="stop5463"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5465"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5467"
+         offset="1"
+         style="stop-color:#bcdcff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5530">
+      <stop
+         id="stop5532"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5534"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5536"
+         offset="1"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5045"
+       id="linearGradient5051"
+       x1="832.87366"
+       y1="-432.84937"
+       x2="727.73492"
+       y2="-395.3707"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5053"
+       id="linearGradient5059"
+       x1="834.95581"
+       y1="-345.19098"
+       x2="727.73486"
+       y2="-364.34671"
+       gradientUnits="userSpaceOnUse" />
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-5"
+       style="overflow:visible">
+      <path
+         id="path3213-1"
+         d="M -1.28,0 -2.3466667,1.0666667 1.3866667,0 -2.3466667,-1.0666667 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.213333pt;marker-start:none"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient5271"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02877585,0,0,1.3877735,-196.15994,419.09956)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5461"
+       id="linearGradient5291"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02908112,0,0,0.8977948,-196.29548,1195.1149)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4823"
+       id="linearGradient5301"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02908112,0,0,1.3845735,-196.29548,875.10517)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5304"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06681793,0,0,1.5899306,-224.99901,787.22974)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4113"
+       id="linearGradient5316"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02908112,0,0,0.55009657,-196.29548,1125.3795)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4149"
+       id="linearGradient5334"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02908112,0,0,1.3845735,-196.29548,679.4667)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5461"
+       id="linearGradient5352"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02908112,0,0,1.3845735,-196.29548,556.79855)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5355"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06681793,0,0,3.7595721,-224.99901,-375.31444)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient5358"
+       gradientUnits="userSpaceOnUse"
+       x1="-256.1124"
+       y1="1285.4817"
+       x2="-158.50052"
+       y2="1285.4817" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5388"
+       id="linearGradient5376"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.02648931,0,0,10.103516,94.063073,-2890.7677)"
+       x1="23.498489"
+       y1="430.77899"
+       x2="480.57654"
+       y2="430.56458"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5394"
+       id="linearGradient5400"
+       x1="-0.22766721"
+       y1="410.10971"
+       x2="990.66211"
+       y2="410.10971"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5427"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4851428,0,0,1.9871607,-554.58941,-222.49064)"
+       x1="418.45175"
+       y1="141.74263"
+       x2="418.45175"
+       y2="120.86098" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5430"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3168611,0,0,1.4543706,-335.79658,-152.66763)"
+       x1="418.45175"
+       y1="141.74263"
+       x2="418.45175"
+       y2="120.86098" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5456"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3168611,0,0,1.4543706,-335.79658,52.052679)"
+       x1="418.45175"
+       y1="141.74263"
+       x2="418.45175"
+       y2="120.86098" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5458"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4851428,0,0,1.9871607,-554.58941,-17.77032)"
+       x1="418.45175"
+       y1="141.74263"
+       x2="418.45175"
+       y2="120.86098" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3168611,0,0,1.4543706,-335.79658,129.95331)"
+       x1="418.45175"
+       y1="141.74263"
+       x2="418.45175"
+       y2="120.86098" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5470"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4851428,0,0,1.9871607,-554.58941,60.130303)"
+       x1="418.45175"
+       y1="141.74263"
+       x2="418.45175"
+       y2="120.86098" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient5479"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9547369,0,0,1.4198776,-645.8362,-47.994421)"
+       x1="418.45175"
+       y1="141.74263"
+       x2="418.45175"
+       y2="120.86098" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4243"
+       id="linearGradient5481"
+       gradientUnits="userSpaceOnUse"
+       x1="542.31018"
+       y1="354.3905"
+       x2="542.31018"
+       y2="214.25992" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient5494"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.10235577,0,0,8.0364774,-106.9763,-2064.4958)"
+       x1="-9.5"
+       y1="429.36218"
+       x2="897.5"
+       y2="429.36218" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1981687"
+     inkscape:cx="872.99894"
+     inkscape:cy="399.35946"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1061"
+     inkscape:window-x="1368"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     showborder="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2403"
+       visible="true"
+       enabled="true"
+       empspacing="5"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingx="1.0666667"
+       spacingy="1.0666667" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="boxes"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(112.6258,220.41068)"
+     style="display:inline">
+    <g
+       id="g7843"
+       transform="matrix(2.5983922,0,0,1.3037489,11.955321,-218.85427)"
+       style="fill:#6c6c6c;fill-opacity:1;stroke:#0c3875;stroke-width:1.16572;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16">
+      <path
+         id="path4504"
+         d="M 53.552367,198.34688 69.333333,178.51966 H 187.57392 l 14.36847,21.28671 -14.36847,21.2867 H 69.333333 Z"
+         style="fill:#6c6c6c;fill-opacity:1;stroke:#b2df82;stroke-width:1.24343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.13333;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4015"
+       width="69.727791"
+       height="34.863895"
+       x="309.02924"
+       y="-205.72688"
+       ry="17.431948"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <rect
+       ry="0"
+       y="-135.24265"
+       x="235.27422"
+       height="37.653008"
+       width="217.23778"
+       id="rect4986"
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.13333;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <rect
+       ry="17.364948"
+       y="405.06882"
+       x="195.22916"
+       height="34.729897"
+       width="297.32791"
+       id="rect5006"
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.26734;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <rect
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.13333;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect5042"
+       width="217.23778"
+       height="37.653008"
+       x="235.27422"
+       y="-64.426765"
+       ry="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <rect
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.13333;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect7126"
+       width="217.23778"
+       height="60.845089"
+       x="235.27422"
+       y="104.45905"
+       ry="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <rect
+       ry="0"
+       y="251.73294"
+       x="-111.28118"
+       height="56.109013"
+       width="217.23778"
+       id="rect7134"
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.13333;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <g
+       style="fill:#6c6c6c;fill-opacity:1;stroke:#0c3875;stroke-width:1.16572;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(2.2514748,0,0,1.3073961,56.273109,-32.036715)"
+       id="g9537"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6c6c;fill-opacity:1;stroke:#b2df82;stroke-width:1.24343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843"
+         d="M 53.552367,198.34688 69.333333,178.51966 H 187.57392 l 14.36847,21.28671 -14.36847,21.2867 H 69.333333 Z"
+         id="path9539" />
+    </g>
+    <g
+       id="g9549"
+       transform="matrix(2.2514748,0,0,1.3073961,56.273109,69.607083)"
+       style="fill:#6c6c6c;fill-opacity:1;stroke:#0c3875;stroke-width:1.16572;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16">
+      <path
+         id="path9551"
+         d="M 53.552367,198.34688 69.333333,178.51966 H 187.57392 l 14.36847,21.28671 -14.36847,21.2867 H 69.333333 Z"
+         style="fill:#6c6c6c;fill-opacity:1;stroke:#b2df82;stroke-width:1.24343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       ry="0"
+       y="200.44334"
+       x="989.31525"
+       height="60.830029"
+       width="220.37021"
+       id="rect9563"
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.14839;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <rect
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.30571;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect10441"
+       width="296.24329"
+       height="34.691521"
+       x="617.22559"
+       y="405.7175"
+       ry="17.34576"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <g
+       style="fill:#6c6c6c;fill-opacity:1;stroke:#0c3875;stroke-width:1.16572;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(2.2514748,0,0,1.3073961,477.72723,-30.060516)"
+       id="g9537-0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6c6c;fill-opacity:1;stroke:#b2df82;stroke-width:1.24343;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843"
+         d="M 53.552367,198.34688 69.333333,178.51966 H 187.57392 l 14.36847,21.28671 -14.36847,21.2867 H 69.333333 Z"
+         id="path9539-1" />
+    </g>
+    <rect
+       ry="0"
+       y="85.837509"
+       x="990.88153"
+       height="60.845089"
+       width="217.23778"
+       id="rect9563-8"
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.13333;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <rect
+       ry="0"
+       y="-38.654739"
+       x="979.60352"
+       height="60.739025"
+       width="239.79372"
+       id="rect9563-8-7"
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.23939;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <g
+       style="fill:#6c6c6c;fill-opacity:1;stroke:#0c3875;stroke-width:1.86577;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.87889853,0,0,1.3073961,750.65109,-267.27446)"
+       id="g9537-4"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#6c6c6c;fill-opacity:1;stroke:#b2df82;stroke-width:1.99015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843"
+         d="M 48.697806,198.34688 76.615175,178.51966 H 180.29207 l 26.50488,21.28671 -26.50488,21.2867 H 76.615175 Z"
+         id="path9539-15" />
+    </g>
+    <rect
+       style="fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:#b2df82;stroke-width:2.24811;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect5042-0"
+       width="134.3293"
+       height="37.538235"
+       x="616.7356"
+       y="-26.075224"
+       ry="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <text
+       x="970.62964"
+       y="-433.94748"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.72307px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.94;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       id="text4879"
+       xml:space="preserve"><tspan
+         x="970.62964"
+         y="-433.94748"
+         style="font-weight:bold;stroke-width:1.06667"
+         id="tspan4881" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="arrows"
+     style="display:inline"
+     transform="translate(0,-416)">
+    <path
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 456.51891,540.78854 v 13.95322 13.93789"
+       id="path4547"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:none;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 456.51891,468.92742 v 27.89112"
+       id="path7776"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       id="path7106"
+       d="m 456.51891,616.75425 v 27.89112"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="M 456.51891,707.70859 V 735.5997"
+       id="path7154"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       id="path9535"
+       d="m 456.51891,804.40513 v 27.8911"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 456.51891,898.31254 v 33.46933"
+       id="path9561"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       id="path9627"
+       d="M 286.41046,965.3294 H 106.9907 v -15.9125"
+       style="display:inline;fill:none;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-start:url(#EmptyTriangleInM);marker-end:none"
+       d="M 286.41046,863.46736 H 106.9907 v 21.49073"
+       id="path10037"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path10435"
+       d="m 456.51891,1001.3517 v 33.4693"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       id="path9613"
+       d="M 877.97308,1032.9291 V 897.65913"
+       style="display:inline;fill:none;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-start:url(#EmptyTriangleInM);marker-end:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 1047.1576,868.34413 50.2002,0.159"
+       id="path9583-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 1212.4637,830.51999 -0.1785,-17.59197 -0.2229,-21.9855"
+       id="path4547-0"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="13.721759"
+       inkscape:transform-center-y="-22.186297"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:#b2df82;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.35458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 1212.4539,716.81474 -0.1511,-19.73838 -0.2371,-30.9986"
+       id="path4547-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="13.281941"
+       inkscape:transform-center-y="-28.393934"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path4042"
+       d="M 1098.3161,753.93693 H 979.92166 v -89.25128"
+       style="display:inline;fill:#000000;fill-opacity:0;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-start:url(#EmptyTriangleInM);marker-end:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 1086.7156,628.53837 -36.0167,0.0251"
+       id="path4593"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       id="path7179"
+       d="m 464.84018,627.24334 h 225.11457 v 50.35807 h -41.60368"
+       style="display:inline;fill:none;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-start:url(#EmptyTriangleInM);marker-end:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 625.78433,865.56649 60.41642,0.159"
+       id="path9583"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       d="m 730.26099,628.53837 -36.01663,0.0251"
+       id="path9583-5-5-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4591"
+       d="m 903.77214,628.53837 -36.01664,0.0251"
+       style="display:inline;fill:#d4d4d4;fill-opacity:1;fill-rule:evenodd;stroke:#b2df82;stroke-width:2.13333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#EmptyTriangleOutM)"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     transform="translate(0,245.20533)"
+     style="display:inline;opacity:0.96">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="457.97702"
+       y="-206.81406"
+       id="text4079"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan4081"
+         x="457.97702"
+         y="-206.81406"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">Start</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="406.13333"
+       y="-115.07201"
+       id="text4105"><tspan
+         sodipodi:role="line"
+         id="tspan4107"
+         x="406.13333"
+         y="-115.07201"
+         style="font-size:42.6667px;line-height:1.25;font-family:sans-serif;stroke-width:1.06667"> </tspan></text>
+    <text
+       id="text4988"
+       y="-135.34372"
+       x="457.25958"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="-135.34372"
+         x="457.25958"
+         id="tspan4990"
+         sodipodi:role="line">Assemble a frame</tspan></text>
+    <text
+       id="text5008"
+       y="403.91458"
+       x="456.82324"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="403.91458"
+         x="456.82324"
+         id="tspan5010"
+         sodipodi:role="line">Transmission successful</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="401.61911"
+       y="-65.863235"
+       id="text5044"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan5046"
+         x="401.61911"
+         y="-65.863235"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">Attempt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="456.52689"
+       y="107.14704"
+       id="text7128"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan7130"
+         x="456.52689"
+         y="107.14704"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 6.1360393">Transmit 1<tspan
+   style="font-size:12.551px;line-height:100%;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+   id="tspan7156"
+   dy="-6.1360393">st</tspan> bit </tspan><tspan
+         sodipodi:role="line"
+         x="459.86346"
+         y="126.67078"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         id="tspan7162">of the frame </tspan></text>
+    <text
+       id="text7136"
+       y="251.63177"
+       x="108.33854"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="251.63177"
+         x="108.33854"
+         id="tspan7138"
+         sodipodi:role="line">Transmit next bit </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="271.15549"
+         x="111.67512"
+         sodipodi:role="line"
+         id="tspan9629">of the frame </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="456.67941"
+       y="21.093035"
+       id="text7150"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan7152"
+         x="455.98212"
+         y="21.093035"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;letter-spacing:-1.39456px;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         dx="0">Is some other station transmitting?</tspan></text>
+    <text
+       id="text9541"
+       y="208.63933"
+       x="456.67941"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="208.63933"
+         x="456.67941"
+         id="tspan9543"
+         sodipodi:role="line">Collision detected?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="456.67941"
+       y="310.28311"
+       id="text9553"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9555"
+         x="456.67941"
+         y="310.28311"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">Transmission finished?</tspan></text>
+    <text
+       id="text9565"
+       y="211.62149"
+       x="1134.7252"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         id="tspan9571"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="211.62149"
+         x="1134.7252"
+         sodipodi:role="line">wait</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="758.00952"
+       y="42.48164"
+       id="text9575"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9577"
+         x="758.00952"
+         y="42.48164"
+         style="font-size:55.7822px;line-height:1.25;font-family:sans-serif;stroke-width:1.06667"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="625.49231"
+       y="194.68062"
+       id="text9579"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9581"
+         x="625.49231"
+         y="194.68062"
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">Yes</tspan></text>
+    <text
+       id="text9593"
+       y="2.5675573"
+       x="695.13892"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="2.5675573"
+         x="695.13892"
+         id="tspan9595"
+         sodipodi:role="line">Yes</tspan></text>
+    <text
+       id="text9615"
+       y="64.927574"
+       x="468.38931"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="64.927574"
+         x="468.38931"
+         id="tspan9617"
+         sodipodi:role="line">No</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="468.38931"
+       y="258.92108"
+       id="text9619"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9621"
+         x="468.38931"
+         y="258.92108"
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">No</tspan></text>
+    <text
+       id="text9623"
+       y="300.26398"
+       x="251.49818"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="300.26398"
+         x="251.49818"
+         id="tspan9625"
+         sodipodi:role="line">No</tspan></text>
+    <text
+       id="text10437"
+       y="360.05219"
+       x="467.11725"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="360.05219"
+         x="467.11725"
+         id="tspan10439"
+         sodipodi:role="line">Yes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="878.5705"
+       y="404.54407"
+       id="text10443"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan10445"
+         x="878.5705"
+         y="404.54407"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">no transmission possible</tspan></text>
+    <text
+       id="text9565-1"
+       y="210.85675"
+       x="883.36938"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         id="tspan9571-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="210.85675"
+         x="883.36938"
+         sodipodi:role="line">Attempt &gt; maxAttempt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="885.05243"
+       y="320.99387"
+       id="text9579-6"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9581-4"
+         x="885.05243"
+         y="320.99387"
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">Yes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="1059.5355"
+       y="196.16116"
+       id="text9619-0"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9621-8"
+         x="1059.5355"
+         y="196.16116"
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">No</tspan></text>
+    <text
+       id="text9565-5"
+       y="98.265892"
+       x="1212.3217"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         id="tspan9571-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="98.265892"
+         x="1212.3217"
+         sodipodi:role="line">wait--</tspan></text>
+    <text
+       id="text9565-5-3"
+       y="-26.258976"
+       x="1212.6124"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         id="tspan9571-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="-26.258976"
+         x="1212.6124"
+         sodipodi:role="line">wait one slot time</tspan></text>
+    <text
+       id="text9565-5-3-7"
+       y="-24.499504"
+       x="976.20398"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         id="tspan9571-6-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="-24.499504"
+         x="976.20398"
+         sodipodi:role="line">wait &gt; 0 ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="1014.1628"
+       y="85.341164"
+       id="text9579-5"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9581-6"
+         x="1014.1628"
+         y="85.341164"
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">Yes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="799.35815"
+       y="-26.091553"
+       id="text5044-3"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan5046-8"
+         x="799.35815"
+         y="-26.091553"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">Attempt++</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="873.65558"
+       y="-41.724766"
+       id="text9619-0-5"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan9621-8-2"
+         x="873.65558"
+         y="-41.724766"
+         style="font-weight:bold;font-size:16.7347px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">No</tspan></text>
+    <g
+       id="g7818"
+       transform="matrix(3.9492324,0,0,3.8413376,-82.795632,-613.37916)"
+       inkscape:transform-center-x="67.903267"
+       inkscape:transform-center-y="-51.127437"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#0c3875;stroke-width:0.975597;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#b2df82;stroke-width:1.04064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#Arrow1Send)"
+         d="m 154.66667,141.18633 h -15.7738"
+         id="path3193"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g7818-9"
+       transform="matrix(3.2235517,0,0,3.8870523,717.47463,-345.05283)"
+       inkscape:transform-center-x="55.359934"
+       inkscape:transform-center-y="-51.735877"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#0c3875;stroke-width:0.975597;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#b2df82;stroke-width:1.04064;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.96216;stroke-dasharray:none;stroke-opacity:0.99607843;marker-end:url(#Arrow1Send)"
+         d="m 154.66667,141.18633 h -15.7738"
+         id="path3193-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.8px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="1225.4257"
+       y="202.89743"
+       id="text4495"><tspan
+         sodipodi:role="line"
+         id="tspan4497"
+         x="1225.4257"
+         y="202.89743"
+         style="font-size:42.6667px;line-height:1.25;font-family:sans-serif;stroke-width:1.06667"> </tspan></text>
+    <text
+       id="text9565-3"
+       y="209.32401"
+       x="1265.8175"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.96;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         id="tspan9571-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:100%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+         y="209.32401"
+         x="1265.8175"
+         sodipodi:role="line">rand(16)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:12.8px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'FreeUniversal Bold';letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.96;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667"
+       x="542.78699"
+       y="-65.863235"
+       id="text5044-4"
+       inkscape:export-filename="/Users/rob_art/ownCloud/Shared/websciencemooc/grafiken/collision_diagram.png"
+       inkscape:export-xdpi="258.16"
+       inkscape:export-ydpi="258.16"><tspan
+         sodipodi:role="line"
+         id="tspan5046-6"
+         x="542.78699"
+         y="-65.863235"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5237px;line-height:125%;font-family:FreeUniversal;-inkscape-font-specification:'FreeUniversal Bold';text-align:center;text-anchor:middle;fill:#b2df82;fill-opacity:1;stroke:none;stroke-width:1.06667">1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="weitere elemente"
+     style="display:inline"
+     transform="translate(0,-416)" />
+</svg>
