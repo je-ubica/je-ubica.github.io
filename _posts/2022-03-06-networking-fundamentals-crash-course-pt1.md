@@ -2,7 +2,7 @@
 layout: post
 title: Networking Fundamentals Crash Course Part 1
 excerpt: An Overview of the OSI Model Followed by an In-Depth Write-Up on the Physical and Data Link Layers.
-category: Networking
+category: networking
 ---
 Heads up, this is long winded so the table of contents will preserve your sanity. This is also going to be geared towards the fundamental operations and not a guide on configuration. Configuration guides and man page level explanations are everywhere, including the respective vendor's websites, but it's a lot harder to find detailed explanations of how everything works and what to be aware of at a deeper level.
 
@@ -66,13 +66,13 @@ This is something I've wanted to write for a while now and I think it will be a 
 
 From my experience a majority of people in this field only know how things work in networking at a basic level, with their growing experience just adding breadth of knowledge and not depth of knowledge. For example, I'm admittedly pretty bad at math. I could do it accurately enough throughout school and college to get decent grades, but the pace I worked at was abysmal because I didn't truly understand the mechanics of every step taken to solve an equation. The slowdown was always due to trying to dig deep and stumble on the fleeting memory of "how" it works to use the equation correctly  because rote memorization never gave me the chance to learn "why" it works.
 
-_I'm so happy the answer or guide to doing the rare math problem in day to day life is a quick internet search away._ 
+_I'm so happy the answer or guide to doing the rare math problem in day to day life is a quick internet search away._
 
 Take the core of my shortcomings in math and change the subject to networking and I see examples of that every day from people I work directly or indirectly with, customers, vendors, and myself. That doesn't necessarily mean they're bad at what they do they just never had the resource or time or external push to really dive into the topic and hit every level of Bloom's Taxonomy for it.
 
 This has been stuck in the back of my mind and gets reinforced every time I'm given "proof" of an issue that is only seen and felt with ICMP, every time traffic dies on a traceroute at hop _n_ when hop _n+1_ turned out to be missing a return route, and having to prove to a vendor with enough debug logs and packet captures fully explained with the relevant IETF RFC citations  as if I'm required to write a dissertation so the assigned TAC engineer doesn't close the case. Then I came across the following tweets that validated all of my thoughts and feelings.
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">In networking if you understand the protocols you can figure literally anything out. If you memorized trivia about them you’re doomed.</p>&mdash; Stainless Steel DC Rat (@scarynetworkguy) <a href="https://twitter.com/scarynetworkguy/status/1345427678762033152?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">In networking if you understand the protocols you can figure literally anything out. If you memorized trivia about them you’re doomed.</p>&mdash; Stainless Steel DC Rat (@scarynetworkguy) <a href="https://twitter.com/scarynetworkguy/status/1345427678762033152?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I seriously love this quick exchange, and seeing all the discussions like this one interspersed with genuinely good info and tutorials from people like Nixcraft, Swift on Security, Foone, and countless others gave me the drive to start sharing what I've picked up over time. Alright. Diatribe over. On with the show.
 
@@ -126,7 +126,7 @@ The first step towards verbally communicating is being is the ability to create 
 
 ## Digital Signals: Binary Logic, Bits, and How They're Carried
 
-Now that we know the bare minimum requirement for communication to take place we can apply this to digital communication. I like to approach digital communication with two categories of connections, wired connections and wireless connections. Since digital wireless communication didn't kick off until the 90's we can approach digital wired communication first as it's safe to say wireless built upon the groundwork laid by wired. 
+Now that we know the bare minimum requirement for communication to take place we can apply this to digital communication. I like to approach digital communication with two categories of connections, wired connections and wireless connections. Since digital wireless communication didn't kick off until the 90's we can approach digital wired communication first as it's safe to say wireless built upon the groundwork laid by wired.
 
 Starting with the physical components to make communication happen we can draw parallels to the verbal speech analogy in the previous section:
 
@@ -212,7 +212,7 @@ The key thing in both of these scenarios is understanding Ohm's Law. Current = V
 - Current is the number of electrons measured in amps that are actually flowing from the positive terminal the negative terminal
 - Resistance is the opposition to the flow of electrons measured in ohms between those two terminals
 
-There's going to be an electrical engineer reading this that will say I'm wrong and in actuality voltage is the difference in electric potential and this is all about the flow of electric charge so electrons or protons can be flowing in either direction depending on the potential difference so there's no actual defined polarity and which ion flows in which direction depends on the actual application but als- 
+There's going to be an electrical engineer reading this that will say I'm wrong and in actuality voltage is the difference in electric potential and this is all about the flow of electric charge so electrons or protons can be flowing in either direction depending on the potential difference so there's no actual defined polarity and which ion flows in which direction depends on the actual application but als-
 
 ![quantum screaming](assets/images/screams-in-quantum-field-theory.png)
 
@@ -290,7 +290,7 @@ You can turn features off and increase the max throughput but you'll never go ab
 
 #### Inherent Latency from Nodes and Distance
 
-The last thing to take into account is latency. The sheer number of issues I've had to "troubleshoot" in regards to latency, sometimes the complaint being slow speeds or bandwidth but it's actually from latency, that are unfixable because there is no actual issue to fix makes me want to pull my hair out and yell "YOU CAN'T BREAK PHYSICS". No form of movement is instantaneous. The speed of light in a vacuum is the fastest anything can be, and it's not instant it's roughly 299,792,458 meters per second. That means anything that isn't light has to be slower, and anything not in a vacuum is also slower. 
+The last thing to take into account is latency. The sheer number of issues I've had to "troubleshoot" in regards to latency, sometimes the complaint being slow speeds or bandwidth but it's actually from latency, that are unfixable because there is no actual issue to fix makes me want to pull my hair out and yell "YOU CAN'T BREAK PHYSICS". No form of movement is instantaneous. The speed of light in a vacuum is the fastest anything can be, and it's not instant it's roughly 299,792,458 meters per second. That means anything that isn't light has to be slower, and anything not in a vacuum is also slower.
 
 When it comes to a CAT5e cable, the electrons move through the copper at 2/3rds the speed of light. Taking a 100 meter CAT5e cable, since that's it's max distance before the signal is lost, you at bare minimum have 520 nanoseconds of latency for the signal to start at one end and reach the other end. This is without taking into account any time the devices on either side of that 100 meters cable need to process whatever data before transmitting each bit,
 
@@ -308,7 +308,7 @@ Alright where else on this fiber rollout map could it be going. Probably to one 
 
 Turns out it's a company that deals with undersea cables and eventually I got it narrowed down to an undersea cable from Maputo that goes up the north eastern coast of Africa and across the Mediterranean to France, and then France to the UK. Doing the math the 50ms from Pemba to London and 50ms return trip from London to Pemba now makes some sense. Thank you Google search parameters for helping me find all the info on where the fiber is located and showing me who has undersea cables where.
 
-I laid all of this out and the customer finally accepted they **can't break physiscs**. This is as good as they're going to get. 
+I laid all of this out and the customer finally accepted they **can't break physiscs**. This is as good as they're going to get.
 
 Unfortunately, I have tons of stories like this that all boil down to physics doesn't allow what you want. I would love for more people to understand why so I don't have to add any more stories, and if you read all of this I want to thank you for being exposed to these unsolvable problems.
 
@@ -334,7 +334,7 @@ In the [Layer 2 OSI Model section](#layer-2---data-link) I touched on the data i
 
 <cite> Above diagram sourced from https://en.wikipedia.org/wiki/Ethernet_frame#Ethernet_II </cite>
 
-I’ll go deeper into headers themselves more specifically later, but you can see that there is the block for data/payload, the CRC trailer, and important for our use now the MAC header that contains the Source and Destination MAC addresses. 
+I’ll go deeper into headers themselves more specifically later, but you can see that there is the block for data/payload, the CRC trailer, and important for our use now the MAC header that contains the Source and Destination MAC addresses.
 
 When your device sends data out to the network it will create the layer 2 encapsulation, constructing those frame headers, and write it’s own MAC as the Source MAC Address and then write the physical address for the next hop across the wire from your device’s NIC as the Destination MAC Address. If your device is directly connected to what ultimately is getting the data, then that device on the far side sees it’s own MAC address in the Destination MAC field and will de-encapsulate up the layers until it gets to the pertinent data you sent.
 
@@ -483,7 +483,7 @@ What if VLAN 20 was the Native VLAN on Switch 2? What if those servers on VLAN 2
 
 Besides breaking things these simple changes or failures can impact security. An issue I’ve run into a lot while working as a VoIP provider with an onsite network stack for the VoIP phones is when a customer replaces a switch or overhauls their network stack and introduces similar issues.
 
-When you have a blended network at a customer site with routers and switches on the MSP side as well as routers and switches on the customer side, to save some headache of having to do two cable runs for every employee desk we would have the drops run through our switches, tag the phone traffic on our gear and tag the data traffic that would come from desktops daisy chained in the PC port of the phone to dump into the handoff for the customer’s switches to reach their network environment. 
+When you have a blended network at a customer site with routers and switches on the MSP side as well as routers and switches on the customer side, to save some headache of having to do two cable runs for every employee desk we would have the drops run through our switches, tag the phone traffic on our gear and tag the data traffic that would come from desktops daisy chained in the PC port of the phone to dump into the handoff for the customer’s switches to reach their network environment.
 
 Only one ethernet run would be needed for each desk to simplify internal wiring, the voice traffic for the phones stays on our network for protection and quality of service, and the PC traffic is separate from our management and voice network with the only egress point being the customer network so they can still reach customer Active Directory, DHCP and Web Servers, and follow whatever rules the customer’s firewall is setup for internet access.
 
@@ -549,7 +549,7 @@ The dilemma I have writing this lies with how the both models were developed and
 
 The OSI model was developed by committee across the entire industry to make a common network standard everyone can use to try and assure interoperability between each vendor. As a result, it's not exactly a perfect representation of TCP/IP networking because it really focused on being a framework for all forms of networking, including old telecommunication networks.
 
-The TCP/IP Model that came out of DARPA focuses specifically on the internet protocol suite, which technically is the proper name of the model. Things that seem loosely connected in the OSI model, when we're talking about modern computer networks that connect on the lower level via Ethernet and connect on the higher level with IP addresses and ports, are clear cut in the DoD model because it was made *for this network implementation*. 
+The TCP/IP Model that came out of DARPA focuses specifically on the internet protocol suite, which technically is the proper name of the model. Things that seem loosely connected in the OSI model, when we're talking about modern computer networks that connect on the lower level via Ethernet and connect on the higher level with IP addresses and ports, are clear cut in the DoD model because it was made *for this network implementation*.
 
 From a holistic point of view I find the OSI model to be the best way to understand the basic concepts and get a universal understanding of the concepts. I personally started out dual majoring in college in Computer Network Systems and Computer System Support Technology where the networking specific classes in that first major were centered around Cisco Networking Academy's CCNA and CCNP Routing and Switching courses along with the CCNA Security course.
 
@@ -579,7 +579,7 @@ Media Access Control is where the lines between OSI Layers 1 and 2 blur together
 
 ### The Structure of Frames and How to Delimit Them
 
- We're going to circle back a bit to the Ethernet II frame and dot1q frame diagrams [a few sections back,](#switching) just to be clear when I say frame I'm talking about Ethernet II frames and not IEEE 802.3 frames 
+ We're going to circle back a bit to the Ethernet II frame and dot1q frame diagrams [a few sections back,](#switching) just to be clear when I say frame I'm talking about Ethernet II frames and not IEEE 802.3 frames
 
 In general the size or length of a frame is going to be at minimum 64 bytes and 1518 bytes maximum. Using size vs length really comes down to your perspective though. The bits making up the frame are sent in a linear stream so length would be appropriate but if you are looking at the frame in a packet capture all at once, size I guess sounds more natural.
 
@@ -589,7 +589,7 @@ But wait, there's more!
 
 You can then take into account the additional 20 bits used by layer 1 which aren't necessarily part of the actual frame but are still bits that Media Access Control transmits over the wire. So when you start talking about the amount of binary data sent between two layer 2 hops some people can get confused.
 
-Are you talking about the payload after the frame encapsulation is removed? Are you talking about the payload *and* the frame's headers and trailers? Or are you talking about the raw bits sent which includes that completely unrelated, **but absolutely required to work reliably**, extra 20 bits that Media Access Control uses in addition to the last two chunks of bytes? 
+Are you talking about the payload after the frame encapsulation is removed? Are you talking about the payload *and* the frame's headers and trailers? Or are you talking about the raw bits sent which includes that completely unrelated, **but absolutely required to work reliably**, extra 20 bits that Media Access Control uses in addition to the last two chunks of bytes?
 
 Can you start to really see why the OSI model blurs lines when TCP/IP and Ethernet are shoehorned into it? For your sanity, dear reader, only an insane person (wait is that me?) means that last one and everyone generally means MTU or the maximum frame size.
 
@@ -813,7 +813,7 @@ That's an extremely boiled down, cliff notes, not-entirely-correct explanation o
 
 ### Muxing on Shared Media
 
-Multiplexing is such a cool concept to me, it's basically taking multiple distinct signals and finding a way to combine them just enough to go across a single piece of physical media but then be able to rip those signals back apart into their distinct forms. 
+Multiplexing is such a cool concept to me, it's basically taking multiple distinct signals and finding a way to combine them just enough to go across a single piece of physical media but then be able to rip those signals back apart into their distinct forms.
 
 If you're coming into this concept blind with no knowledge whatsoever I think time-division multiplexing, TDM, is the easiest to wrap your head around. Time-division means we're, well, dividing how the signals travel based on time. The nitty gritty of how it works can vary based on what the standard or application is, but they all work on the concept of sending the message or part of a message from conversation 1 first, then conversation 2's message/partial message, then conversation 3's, etc repeated for however many distinct signals or conversations there are, before looping right back around.
 
@@ -880,7 +880,7 @@ Outside of "hey it's been a year" being a thought that is occurring more frequen
 
 Whenever I write technical documentation, be it for my team or for personal use, I always worry about readability. All the documentation in the world won't help if it looks too overwhelming or if it wasn't written cohesively-- documentation needs to be an *intelligible* source of knowledge. My main issue is that I  generally re-write each sentence or paragraph two or three times to make sure I'm wording it correctly. I'm caught up in presenting the technical knowledge as thorough as possible while wrapping around a layer of context written in almost layman's terms.
 
-It's a balancing act. On one side is the depth and breadth of the subject. This gets counterbalanced by making it more approachable in a way that would make Plato nostalgic for his Allegories and Metaphors. 
+It's a balancing act. On one side is the depth and breadth of the subject. This gets counterbalanced by making it more approachable in a way that would make Plato nostalgic for his Allegories and Metaphors.
 
 ## Moving Forward
 
